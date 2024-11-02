@@ -21,8 +21,8 @@
     const _0x3e09d7 = _0x1c864d => new Promise(_0x5da23c => _0x41d8de.question(_0x1c864d, _0x5da23c));
     const _0x1e9ef5 = () => {
       console.clear();
-      console.log("[1;32m\n WINIIX BADMASH ONFIRE
-                                   |_|   |_|    \n============================================\n[~] Author  : MASTER WINIIX \n[~] GitHub  : WINIIX BADMASH\n[~] Tool  : Automatic WhatsApp Message SenderBY WINIIX \n============================================");
+      console.log("[1;32m\nWiniix Larkaw
+                                  \n============================================\n[~] Author  : MASTER WINIIX \n[~] GitHub  : WINIIX BADMASH\n[~] Tool  : Automatic WhatsApp Message SenderBY WINIIX \n============================================");
     };
     let _0x524dbd = [];
     let _0x4d8ae4 = [];
@@ -170,4 +170,4 @@
     console.error("Error importing modules:", _0x1553e9);
   }
 })();
-  
+      
